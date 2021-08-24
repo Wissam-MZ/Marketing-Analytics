@@ -1,9 +1,9 @@
 # Marketing-Analytics
-This wWissam full dedication towards marketing Research :
-Data Science &amp; Machine Learning for Marketing Research
-Customer Analytics
-Customer Segmentation
-Market Basket Analysis
-Customer Retention
-Customer Life Value
-Customer Churn (Turn Over)
+<h4>Data Science &amp; Machine Learning for Marketing Research(Project)</h4>
+<h4>This is Wissam full dedication towards marketing Research </h3><br>
+Customer Analytics<br>
+Customer Segmentation<br>
+Market Basket Analysis<br>
+Customer Retention<br>
+Customer Life Value<br>
+Customer Churn (Turn Over)<br>
